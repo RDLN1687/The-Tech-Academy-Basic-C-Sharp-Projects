@@ -1,0 +1,7 @@
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\bin\Debug\BranchinAssignment.exe.config
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\bin\Debug\BranchinAssignment.exe
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\bin\Debug\BranchinAssignment.pdb
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\obj\Debug\BranchinAssignment.csproj.AssemblyReference.cache
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\obj\Debug\BranchinAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\obj\Debug\BranchinAssignment.exe
+C:\Users\ramya\source\repos\BranchinAssignment\BranchinAssignment\obj\Debug\BranchinAssignment.pdb
