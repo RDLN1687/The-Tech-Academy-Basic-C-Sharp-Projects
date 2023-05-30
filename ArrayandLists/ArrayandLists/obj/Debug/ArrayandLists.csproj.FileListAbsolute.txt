@@ -1,0 +1,6 @@
+/Users/rd/Projects/ArrayandLists/ArrayandLists/bin/Debug/ArrayandLists.exe
+/Users/rd/Projects/ArrayandLists/ArrayandLists/bin/Debug/ArrayandLists.pdb
+/Users/rd/Projects/ArrayandLists/ArrayandLists/obj/Debug/ArrayandLists.csproj.AssemblyReference.cache
+/Users/rd/Projects/ArrayandLists/ArrayandLists/obj/Debug/ArrayandLists.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/ArrayandLists/ArrayandLists/obj/Debug/ArrayandLists.exe
+/Users/rd/Projects/ArrayandLists/ArrayandLists/obj/Debug/ArrayandLists.pdb
