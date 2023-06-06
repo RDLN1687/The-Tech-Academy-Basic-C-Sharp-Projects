@@ -1,0 +1,6 @@
+/Users/rd/Projects/ExceptionalHandling/ExceptionalHandling/obj/Debug/ExceptionalHandling.csproj.AssemblyReference.cache
+/Users/rd/Projects/ExceptionalHandling/ExceptionalHandling/obj/Debug/ExceptionalHandling.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/ExceptionalHandling/ExceptionalHandling/bin/Debug/ExceptionalHandling.exe
+/Users/rd/Projects/ExceptionalHandling/ExceptionalHandling/bin/Debug/ExceptionalHandling.pdb
+/Users/rd/Projects/ExceptionalHandling/ExceptionalHandling/obj/Debug/ExceptionalHandling.exe
+/Users/rd/Projects/ExceptionalHandling/ExceptionalHandling/obj/Debug/ExceptionalHandling.pdb
