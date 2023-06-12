@@ -1,0 +1,6 @@
+/Users/rd/Projects/CallingMethodAssignment/CallingMethodAssignment/bin/Debug/CallingMethodAssignment.exe
+/Users/rd/Projects/CallingMethodAssignment/CallingMethodAssignment/bin/Debug/CallingMethodAssignment.pdb
+/Users/rd/Projects/CallingMethodAssignment/CallingMethodAssignment/obj/Debug/CallingMethodAssignment.csproj.AssemblyReference.cache
+/Users/rd/Projects/CallingMethodAssignment/CallingMethodAssignment/obj/Debug/CallingMethodAssignment.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/CallingMethodAssignment/CallingMethodAssignment/obj/Debug/CallingMethodAssignment.exe
+/Users/rd/Projects/CallingMethodAssignment/CallingMethodAssignment/obj/Debug/CallingMethodAssignment.pdb
