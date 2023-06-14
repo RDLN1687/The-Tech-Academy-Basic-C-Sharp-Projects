@@ -1,0 +1,6 @@
+/Users/rd/Projects/MethodAssignment/MethodAssignment/obj/Debug/MethodAssignment.csproj.AssemblyReference.cache
+/Users/rd/Projects/MethodAssignment/MethodAssignment/obj/Debug/MethodAssignment.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/MethodAssignment/MethodAssignment/bin/Debug/MethodAssignment.exe
+/Users/rd/Projects/MethodAssignment/MethodAssignment/bin/Debug/MethodAssignment.pdb
+/Users/rd/Projects/MethodAssignment/MethodAssignment/obj/Debug/MethodAssignment.exe
+/Users/rd/Projects/MethodAssignment/MethodAssignment/obj/Debug/MethodAssignment.pdb
