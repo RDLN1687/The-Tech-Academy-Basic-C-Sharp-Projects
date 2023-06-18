@@ -1,0 +1,6 @@
+/Users/rd/Projects/OperatorAssignment/OperatorAssignment/obj/Debug/OperatorAssignment.csproj.AssemblyReference.cache
+/Users/rd/Projects/OperatorAssignment/OperatorAssignment/obj/Debug/OperatorAssignment.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/OperatorAssignment/OperatorAssignment/bin/Debug/OperatorAssignment.exe
+/Users/rd/Projects/OperatorAssignment/OperatorAssignment/bin/Debug/OperatorAssignment.pdb
+/Users/rd/Projects/OperatorAssignment/OperatorAssignment/obj/Debug/OperatorAssignment.exe
+/Users/rd/Projects/OperatorAssignment/OperatorAssignment/obj/Debug/OperatorAssignment.pdb
