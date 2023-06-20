@@ -1,0 +1,6 @@
+/Users/rd/Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/LambdaExpressionAssignment.csproj.AssemblyReference.cache
+/Users/rd/Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/LambdaExpressionAssignment.exe
+/Users/rd/Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/LambdaExpressionAssignment.pdb
+/Users/rd/Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/LambdaExpressionAssignment.exe
+/Users/rd/Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/LambdaExpressionAssignment.pdb
