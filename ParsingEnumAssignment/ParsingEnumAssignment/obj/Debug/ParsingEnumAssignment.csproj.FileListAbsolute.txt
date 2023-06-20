@@ -1,0 +1,6 @@
+/Users/rd/Projects/ParsingEnumAssignment/ParsingEnumAssignment/obj/Debug/ParsingEnumAssignment.csproj.AssemblyReference.cache
+/Users/rd/Projects/ParsingEnumAssignment/ParsingEnumAssignment/obj/Debug/ParsingEnumAssignment.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/ParsingEnumAssignment/ParsingEnumAssignment/bin/Debug/ParsingEnumAssignment.exe
+/Users/rd/Projects/ParsingEnumAssignment/ParsingEnumAssignment/bin/Debug/ParsingEnumAssignment.pdb
+/Users/rd/Projects/ParsingEnumAssignment/ParsingEnumAssignment/obj/Debug/ParsingEnumAssignment.exe
+/Users/rd/Projects/ParsingEnumAssignment/ParsingEnumAssignment/obj/Debug/ParsingEnumAssignment.pdb
