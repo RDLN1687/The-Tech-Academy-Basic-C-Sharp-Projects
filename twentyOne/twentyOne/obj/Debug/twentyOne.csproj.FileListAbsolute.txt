@@ -1,6 +1,0 @@
-/Users/rd/Projects/twentyOne/twentyOne/bin/Debug/twentyOne.exe
-/Users/rd/Projects/twentyOne/twentyOne/bin/Debug/twentyOne.pdb
-/Users/rd/Projects/twentyOne/twentyOne/obj/Debug/twentyOne.csproj.AssemblyReference.cache
-/Users/rd/Projects/twentyOne/twentyOne/obj/Debug/twentyOne.csproj.CoreCompileInputs.cache
-/Users/rd/Projects/twentyOne/twentyOne/obj/Debug/twentyOne.exe
-/Users/rd/Projects/twentyOne/twentyOne/obj/Debug/twentyOne.pdb
