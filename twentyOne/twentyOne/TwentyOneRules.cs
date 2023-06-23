@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace twentyOne
 {
-    public class TwentyOneRules
+    public class TwentyOneRules 
     {
         private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
         {
@@ -28,14 +28,14 @@ namespace twentyOne
 
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
-            int aceCount = Hand.Count(x => x.Face == Face.Ace);
+            int aceCount = Hand.Count(x => x.Face = Face.Ace);
             int[] result = new int[aceCount + 1];
-            int value = Hand.Sum(x => _cardValues[x.Face]);
+            int value = Hand.Sum(x => _cardValues[x,Face]);
             result[0] = value;
             if (result.Length == 1) return result;
             for (int i =1; i< result.Length; i++)
             {
-                value += (i = 10);
+                value += (i =10);
                 result[i] = value;
             }
             return result;

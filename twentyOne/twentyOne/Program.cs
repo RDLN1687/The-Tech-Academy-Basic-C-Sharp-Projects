@@ -12,6 +12,8 @@ namespace twentyOne
     {
         static void Main(string[] args)
         {
+            string text = "Lets test it";
+            File.WriteAllText(@"/ Users / rd / Projects / twentyOne", text);
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Lets start with your name. ");
             string playerName = Console.ReadLine();
 

@@ -11,7 +11,7 @@ namespace twentyOne
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Spade", "Diamond" };
+            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Spades", "Diamond" };
             List<string> Faces = new List<string>() { "Ace", "Two", "Three", "Four", "Five", "Six",
                                                     "Seven", "Eight", "Nine", "Ten", "King", "Queen", "Jack"};
 
@@ -29,9 +29,9 @@ namespace twentyOne
 
         public List<Card> Cards { get; set; }
 
-        public static Deck Shuffle(Deck deck, out int timesShuffled, int times =3)
+        public static Deck Shuffle(Deck deck, out int timesShuffled, int times)
         {
-            timesShuffled = 0;
+            timesShuffled = 3;
             for (int i = 0; i< times; i++)
             {
                 timesShuffled++;
