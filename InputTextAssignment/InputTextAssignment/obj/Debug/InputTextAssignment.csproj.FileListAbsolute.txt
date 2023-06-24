@@ -1,0 +1,6 @@
+/Users/rd/Projects/InputTextAssignment/InputTextAssignment/bin/Debug/InputTextAssignment.exe
+/Users/rd/Projects/InputTextAssignment/InputTextAssignment/bin/Debug/InputTextAssignment.pdb
+/Users/rd/Projects/InputTextAssignment/InputTextAssignment/obj/Debug/InputTextAssignment.csproj.AssemblyReference.cache
+/Users/rd/Projects/InputTextAssignment/InputTextAssignment/obj/Debug/InputTextAssignment.csproj.CoreCompileInputs.cache
+/Users/rd/Projects/InputTextAssignment/InputTextAssignment/obj/Debug/InputTextAssignment.exe
+/Users/rd/Projects/InputTextAssignment/InputTextAssignment/obj/Debug/InputTextAssignment.pdb
