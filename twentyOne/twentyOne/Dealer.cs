@@ -15,11 +15,11 @@ namespace twentyOne
 
         public void Deal(List<Card> Hand)
         {
-            //Hand.Add(Deck.Cards.First());
-            //string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Hand.Add(Deck.Cards.First());
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
             //Console.WriteLine(card);
             //using (StreamWriter file = new StreamWriter())
-            //    Deck.Cards.RemoveAt(0);
+                Deck.Cards.RemoveAt(0);
         }
-    }
+}
 }

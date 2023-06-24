@@ -9,8 +9,8 @@ namespace twentyOne
 {
     public class Card
     {
-        public string Suit { get; set; }
-        public string Face { get; set; }
+        public Suit Suit { get; set; }
+        public Face Face { get; set; }
 
         public override string ToString()
         {

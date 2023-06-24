@@ -11,42 +11,55 @@ namespace twentyOne
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Spades", "Diamond" };
-            List<string> Faces = new List<string>() { "Ace", "Two", "Three", "Four", "Five", "Six",
-                                                    "Seven", "Eight", "Nine", "Ten", "King", "Queen", "Jack"};
 
-            foreach (string face in Faces)
+            for (int i = 0; i <13; i++)
             {
-                foreach (string suit in Suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
-                }
+
+                 }
             }
+
+            //List<string> Suits = new List<string>() { "Clubs", "Hearts", "Spades", "Diamond" };
+            //List<string> Faces = new List<string>() { "Ace", "Two", "Three", "Four", "Five", "Six",
+            //                                        "Seven", "Eight", "Nine", "Ten", "King", "Queen", "Jack"};
+
+            //foreach (string face in Faces)
+            //{
+            //    //foreach (string suit in Suits)
+            //    //{
+            //    //    Card card = new Card();
+            //    //    card.Suit = Suit;
+            //    //    card.Face = Face;
+            //    //    Cards.Add(card);
+            //    //}
+            //}
         }
 
         public List<Card> Cards { get; set; }
 
-        public static Deck Shuffle(Deck deck, out int timesShuffled, int times)
+        public void Shuffle(int times = 1)
         {
-            timesShuffled = 3;
+            //timesShuffled = 3;
             for (int i = 0; i< times; i++)
             {
-                timesShuffled++;
+                //timesShuffled++;
                 List<Card> TempList = new List<Card>();
                 Random random = new Random();
 
-                while (deck.Cards.Count > 0)
+                while (Cards.Count > 0)
                 {
-                    int randomIndex = random.Next(0, deck.Cards.Count);
-                    TempList.Add(deck.Cards[randomIndex]);
-                    deck.Cards.RemoveAt(randomIndex);
+                    int randomIndex = random.Next(0,Cards.Count);
+                    TempList.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
                 }
-                deck.Cards = TempList;
+                Cards = TempList;
             }
-            return deck;
+          
         }
     }
 }

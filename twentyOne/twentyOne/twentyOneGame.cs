@@ -19,7 +19,7 @@ namespace twentyOne
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
-            Dealer.Deck.Shuffle(Deck, out int timesShuffled, 3);
+            Dealer.Deck.Shuffle();
             Console.WriteLine("Place your bet!");
 
             foreach (Player player in players)
