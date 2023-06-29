@@ -1,0 +1,16 @@
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.Views.dll
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.Views.pdb
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.deps.json
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.runtimeconfig.json
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.runtimeconfig.dev.json
+/Users/rd/Projects/NewsLetter/bin/Debug/appsettings.Development.json
+/Users/rd/Projects/NewsLetter/bin/Debug/appsettings.json
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.dll
+/Users/rd/Projects/NewsLetter/bin/Debug/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/rd/Projects/NewsLetter/bin/Debug/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/rd/Projects/NewsLetter/bin/Debug/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/rd/Projects/NewsLetter/bin/Debug/NewsLetter.pdb
+/Users/rd/Projects/NewsLetter/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/rd/Projects/NewsLetter/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/rd/Projects/NewsLetter/obj/Debug/docker-compose.dcproj.CopyComplete
